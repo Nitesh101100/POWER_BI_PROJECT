@@ -11,3 +11,5 @@ Your task is to clean and analyse this data to uncover valuable insights. To ens
 ➡️ Trends in viewership based on course duration and subtitles.
 ➡️ Top-rated instructors and their impact on engagement.
 ✔ Provided data-driven recommendations to align offerings with market demand, improve user engagement, and optimize content strategy.
+
+Project Dashboard:-https://app.powerbi.com/links/0yOOYhkbLP?ctid=09f75215-57f5-47aa-829e-1a5d94983f9c&pbi_source=linkShare
