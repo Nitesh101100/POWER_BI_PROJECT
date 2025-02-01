@@ -1,0 +1,13 @@
+EdTech Startup Data Analysis Project using PowerBi !!
+
+Problem Statement - An EdTech startup wants to grow its offerings in recorded lectures. The company has collected data from various EdTech websites but needs your expertise to make sense of it.
+Your task is to clean and analyse this data to uncover valuable insights. To ensure the startup can effectively leverage this information, you will create a dashboard that presents your insights. Your analysis will help the company identify areas for improvement and opportunities for growth in their recorded lecture services.
+
+💡 Key Highlights of the Project:
+✔ Cleaned, transformed and analyzed data to uncover trends in learner preferences and engagement.
+✔ Developed an interactive dashboard showcasing critical insights, including:
+➡️ Popular course categories and subcategories.
+➡️ Most demanded skills and languages among learners.
+➡️ Trends in viewership based on course duration and subtitles.
+➡️ Top-rated instructors and their impact on engagement.
+✔ Provided data-driven recommendations to align offerings with market demand, improve user engagement, and optimize content strategy.
